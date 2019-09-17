@@ -1,0 +1,72 @@
+﻿<mockup version="5.3" minAllowVersion="5.3" ID="00CD78E3-59C0-E711-9E7D-787B8ABCE684" platform="MtMobile" defaultW="375" defaultH="667" measureW="375" measureH="667" screenOrientation="MoPortrait" mobileScreenScale="1.77777779102325" clipArea="(0,0,0,0)">
+  <controls controlCount="6">
+    <control controlID="56B78DF2-59C0-E711-9E7D-787B8ABCE684" controlTypeID="StatusBar(IOS)" x="0" y="0" w="375" h="20" zOrder="0">
+      <color>0</color>
+      <ForegroundColor>4278190080</ForegroundColor>
+      <IsAutoTextColor>False</IsAutoTextColor>
+    </control>
+    <control controlID="A6B78DF2-59C0-E711-9E7D-787B8ABCE684" controlTypeID="Icon" x="20" y="75" w="55" h="55" zOrder="1">
+      <icon>
+        <ID/>
+        <iconFontName>jdIonicons</iconFontName>
+        <iconCode>62553</iconCode>
+      </icon>
+      <URL>D7E33E6E51D883E1F80271285DA2DDB1.svg</URL>
+    </control>
+    <control controlID="1EB88DF2-59C0-E711-9E7D-787B8ABCE684" controlTypeID="TextArea" x="20" y="226" w="335" h="207" zOrder="2">
+      <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>You+can+sync+your+contacts+with+Smocket+to+make+sharing+your+discoveries+or+referring+your+friends+easier.+This+is+just+for+you+-+we+don't+contact+anyone+without+your+permission.%0D%0A%0D%0AYou+can+remove+your+contacts+at+any+time+from+your+account+settings.</text>
+      <textColor>4284900966</textColor>
+      <textSize>20</textSize>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="50B88DF2-59C0-E711-9E7D-787B8ABCE684" controlTypeID="Button" x="20" y="470" w="168" h="48" zOrder="3">
+      <color>4284900966</color>
+      <borderVisible>False</borderVisible>
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="AC071669-5AC0-E711-9E7D-787B8ABCE684" linkType="ltPageLink" isApplyIncludePage="False" title="Home">
+          <area shape="0" alt="" ID="{36E41CEA-75C0-E711-9E7D-787B8ABCE684}" coords="(0,0,168,48)"/>
+        </link>
+      </links>
+      <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>Sync+contacts</text>
+      <textColor>4294967295</textColor>
+      <textSize>18</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="8CB88DF2-59C0-E711-9E7D-787B8ABCE684" controlTypeID="Button" x="20" y="534" w="88" h="48" zOrder="4">
+      <color>6710886</color>
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="AC071669-5AC0-E711-9E7D-787B8ABCE684" linkType="ltPageLink" isApplyIncludePage="False" title="Home">
+          <area shape="0" alt="" ID="{024F1DEA-75C0-E711-9E7D-787B8ABCE684}" coords="(0,0,88,48)"/>
+        </link>
+      </links>
+      <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>Skip</text>
+      <textColor>4284900966</textColor>
+      <textSize>18</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+      <thickness>2</thickness>
+    </control>
+    <control controlID="50598905-5AC0-E711-9E7D-787B8ABCE684" controlTypeID="TextArea" x="20" y="153" w="270" h="63" zOrder="5">
+      <font family="Arial" displayName="Arial+Bold" postScript="" weightStyle="Bold" weight="700" isBold="True" isItalic="False"/>
+      <text>Sync+your+contacts+with+Smocket</text>
+      <textColor>4281545523</textColor>
+      <textSize>28</textSize>
+      <textStyles>[fsBold]</textStyles>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294967295</backgroundColor>
+    <fontSize>14</fontSize>
+    <fontFamily>Arial</fontFamily>
+    <guideLines/>
+  </param>
+</mockup>

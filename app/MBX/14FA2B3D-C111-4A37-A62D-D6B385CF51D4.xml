@@ -1,0 +1,46 @@
+﻿<mockup version="5.3" minAllowVersion="5.3" ID="14FA2B3D-C111-4A37-A62D-D6B385CF51D4" platform="MtMobile" defaultW="375" defaultH="667" measureW="375" measureH="667" screenOrientation="MoPortrait" mobileScreenScale="1.77777779102325" clipArea="(0,0,0,0)">
+  <controls controlCount="4">
+    <control controlID="8290F4A5-14A4-4A77-BA43-9C3F08BCE3C3" controlTypeID="Image" x="0" y="0" w="375" h="667" zOrder="0">
+      <URL>4F48F8EFC53DC7AAC3F6809E2146C3C1.png</URL>
+    </control>
+    <control controlID="1B7164CD-915B-406D-98F9-F77EC77EA4D5" controlTypeID="TextInput" x="13" y="68" w="350" h="39" zOrder="1">
+      <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <text>Asia+Pacific+College%2C+3+Humabon%2C+Magallanes</text>
+      <textSize>12</textSize>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+      <radius>8</radius>
+    </control>
+    <control controlID="763EEAEA-74F4-4382-AA05-BD3E8E3AA504" controlTypeID="TextInput" x="13" y="568" w="350" h="51" zOrder="2">
+      <color>4288256409</color>
+      <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <text>Add+Location</text>
+      <textColor>4294967295</textColor>
+      <textSize>16</textSize>
+      <textAlign>HaCenter</textAlign>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+      <radius>8</radius>
+    </control>
+    <control controlID="ECDB3497-9A9E-4B0E-9A96-67D51AA0B126" controlTypeID="Icon" x="20" y="35" w="20" h="20" zOrder="3">
+      <links eventType="AtClick" animate="AmPushLeft" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="AC071669-5AC0-E711-9E7D-787B8ABCE684" linkType="ltPageLink" isApplyIncludePage="False" title="Home">
+          <area shape="0" alt="" ID="{1EAB884C-76C0-E711-9E7D-787B8ABCE684}" coords="(0,0,20,20)"/>
+        </link>
+      </links>
+      <icon>
+        <ID/>
+        <iconFontName>jdIonicons</iconFontName>
+        <iconCode>62418</iconCode>
+      </icon>
+      <URL>91852B86E51F760894554368302F9800.svg</URL>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294967295</backgroundColor>
+    <fontSize>14</fontSize>
+    <fontFamily>Arial</fontFamily>
+    <guideLines/>
+  </param>
+</mockup>

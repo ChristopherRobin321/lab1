@@ -1,0 +1,93 @@
+﻿<mockup version="5.3" minAllowVersion="5.3" ID="18B48659-45C0-E711-9E7D-787B8ABCE684" platform="MtMobile" defaultW="375" defaultH="667" measureW="375" measureH="667" screenOrientation="MoPortrait" mobileScreenScale="1.77777779102325" clipArea="(0,0,0,0)">
+  <controls controlCount="9">
+    <control controlID="EE9C106E-517A-4CD5-B1C2-B4C5DDEE60A1" controlTypeID="Image" x="0" y="0" w="375" h="667" zOrder="0">
+      <opacity>0.0500000007450581</opacity>
+      <URL>AAF1F9C1B15D9A875B7C8DEC765B6C29.png</URL>
+    </control>
+    <control controlID="BC285F68-45C0-E711-9E7D-787B8ABCE684" controlTypeID="StatusBar(IOS)" x="0" y="0" w="375" h="20" zOrder="1">
+      <color>0</color>
+      <IsAutoTextColor>False</IsAutoTextColor>
+    </control>
+    <control controlID="FEC2A7BB-45C0-E711-9E7D-787B8ABCE684" controlTypeID="Label" x="20" y="211" w="264" h="33" zOrder="2">
+      <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>Welcome+to+Smocket</text>
+      <textColor>4294967295</textColor>
+      <textSize>28</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="C86A76D5-45C0-E711-9E7D-787B8ABCE684" controlTypeID="Button" x="20" y="299" w="335" h="48" zOrder="3">
+      <color>4278216345</color>
+      <borderVisible>False</borderVisible>
+      <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>++Continue+with+Facebook</text>
+      <textColor>4284900966</textColor>
+      <textSize>18</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+      <radius>100</radius>
+      <radiusIsPercent>True</radiusIsPercent>
+      <isAutoTextColor>True</isAutoTextColor>
+    </control>
+    <control controlID="16A0E83E-46C0-E711-9E7D-787B8ABCE684" controlTypeID="Button" x="20" y="360" w="335" h="48" zOrder="4">
+      <color>16777215</color>
+      <borderColor>4294967295</borderColor>
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="00FA5D72-45C0-E711-9E7D-787B8ABCE684" linkType="ltPageLink" isApplyIncludePage="False" title="Log+In">
+          <area shape="0" alt="" ID="{1CA58ECC-75C0-E711-9E7D-787B8ABCE684}" coords="(0,0,335,48)"/>
+        </link>
+      </links>
+      <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>Create+Account</text>
+      <textColor>4294967295</textColor>
+      <textSize>18</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+      <radius>100</radius>
+      <radiusIsPercent>True</radiusIsPercent>
+    </control>
+    <control controlID="1C476853-46C0-E711-9E7D-787B8ABCE684" controlTypeID="Label" x="20" y="442" w="80" h="17" zOrder="5">
+      <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>More+options</text>
+      <textColor>4294967295</textColor>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="287CFD63-46C0-E711-9E7D-787B8ABCE684" controlTypeID="TextArea" x="20" y="486" w="329" h="83" zOrder="6">
+      <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>By+tapping+Continue%2C+Create+Account+or+More+options%2C+I+agree+to+Smocket's+Terms+of+Service%2C+Payments+Terms+of+Service%2C+Privacy+Policy%2C+and+Nondiscrimination+Policy.</text>
+      <textColor>4294967295</textColor>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="60B2F6F6-46C0-E711-9E7D-787B8ABCE684" controlTypeID="Label" x="311" y="38" w="37" h="17" zOrder="7">
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="00FA5D72-45C0-E711-9E7D-787B8ABCE684" linkType="ltPageLink" isApplyIncludePage="False" title="Log+In">
+          <area shape="0" alt="" ID="{362867D9-75C0-E711-9E7D-787B8ABCE684}" coords="(0,0,37,17)"/>
+        </link>
+      </links>
+      <font family="Arial" displayName="Arial" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>Log+in</text>
+      <textColor>4294967295</textColor>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="791C30C2-5E5A-42B0-916F-30B03BEAAA97" controlTypeID="Icon" x="52" y="311" w="24" h="24" zOrder="8">
+      <color>4294967295</color>
+      <icon>
+        <ID/>
+        <iconFontName>jdIonicons</iconFontName>
+        <iconCode>62001</iconCode>
+      </icon>
+      <URL>29F37D064345EFF092FDE43A909201C4.svg</URL>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4288256409</backgroundColor>
+    <fontSize>14</fontSize>
+    <fontFamily>Arial</fontFamily>
+    <guideLines/>
+  </param>
+</mockup>
